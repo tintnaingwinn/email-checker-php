@@ -34,9 +34,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-### Security
-
-If you discover any security related issues, please email freek@spatie.be instead of using the issue tracker.
+## Security
+If you discover any security-related issues, please email amigo.k8@gmail.com instead of using the issue tracker.
 
 ## License
 
